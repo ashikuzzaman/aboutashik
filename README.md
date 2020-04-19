@@ -5,10 +5,10 @@ I am a driven servant leader excited by the opportunity to build robust and inno
 
 If you are curious to know about my thoughts, please connect with me at -
 
-LinkedIn - https://www.linkedin.com/in/ashikuzzaman/
-Twitter - https://twitter.com/ashikuzzaman
-Facebook - https://www.facebook.com/Ashikuzzaman
-Engineering Blog - https://ashikuzzaman.wordpress.com/
-Book Reviews - https://reviewsonly.blogspot.com/
-Chess Blog - https://dragonbishop.blogspot.com/
-Blockchain - http://www.dragon-bishop.com/
+- LinkedIn - https://www.linkedin.com/in/ashikuzzaman/
+- Twitter - https://twitter.com/ashikuzzaman
+- Facebook - https://www.facebook.com/Ashikuzzaman
+- Engineering Blog - https://ashikuzzaman.wordpress.com/
+- Book Reviews - https://reviewsonly.blogspot.com/
+- Chess Blog - https://dragonbishop.blogspot.com/
+- Blockchain - http://www.dragon-bishop.com/
