@@ -1,4 +1,536 @@
-May 04 - May 10, 2020
+January 18 - 24, 2021
+======================
+
+1. held regular 1:1s and continued setting 2021 goals in cultureamp for direct reports
+2. observed martin luther king day
+3. started preparation for onboarrding 2 new lohika consultants
+4. coordinated the 1st batch of customers move to SMS via Twilio for DWT. Good work from Wayne. - https://docs.google.com/document/d/1sJp56CI9sqjMuLxCoxQv63YJmshb8pxx8j7jXI_MCIs/edit?ts=6001ffed
+5. got the Tokenization UI / Lofi-Hifi Design Handover from Jonathan Manalus
+6. attended alert review review mneeting
+7. met with Card Fulfillment Team to understand their current systems and pain point
+8. held my open office hour
+9. helped in january jcard releases for demo, sandbox and early winners
+10. met with Kirk to discuss if there is any duplicate efforts within Project Resiliency and PE-SRE scope of works 
+11. attended QBR
+12. participated in TMS Message Queue Clearing Sweep discussions
+13. ran the sprint retro / demo for tokenization and card issuing teams
+14. looked into decommissioned programs with Mohan
+15. Helped Chintal to extract out of her notes a standard document for DNA API and BIN Management - Development Environment Setup that will help onboard all future team members - https://docs.google.com/document/d/1YFSNERLw0Cfzs9uJKF8-oj72rY2bwyIP8m_xmAoS-tI/edit#heading=h.siyztn44ga2v
+16. Prepared the document for Tech Compliance team - Goldman Sachs Customer Audit: Code Analysis Tools - https://docs.google.com/document/d/114_sOMR2F3eyrLFnTi29dt_lAaH0931tdQfF9n5MArw/edit#heading=h.1xrntdw1i1db
+17. Finished "The Truth About Employee Engagement: A Fable About Addressing the Three Root Causes of Job Misery" by Patrick Lencioni - 
+https://ashikuzzaman.wordpress.com/2021/01/26/the-truth-about-employee-engagement-by-patrick-lencioni/
+
+January 11 - 17, 2021
+======================
+
+1. held regular 1:1s and started setting 2021 goals in cultureamp for direct reports
+2. attended "Docs AWS Staging Server Sync: with Tio, Stacy and team
+3. met with Balance service team to come up with a plan to expose balance service to external customers. for example, Lydia, Goldman Sachs - https://marqeta.atlassian.net/browse/SEC-3463?filter=25172
+4. sent an email describing the rules of engagement for the PE-SRE team. The gyst and all the recorded sessions put into a new google site - https://sites.google.com/marqeta.com/pe-sre/rules-of-engagement
+5. worked with Brandon and Lekha to roll out the new CHANGE ticket types for January JCard release
+6. reviewed Change and Release Management document the last time with Anna Grove before tech compliance send it for leqdership approval - go/sox-release-mgmt
+7. attended a session with TPMs for Klarna virtual migration SRE resources
+8. attended customer audit session for Goldman Sachs - SDLC, Developer Access (SOD, Separate Environments)
+9. card issuing team Q1 kickoff - https://docs.google.com/presentation/d/1v-DY6hscj1gP1RxPbIa9EZaLGx-ayYXWJwc5hxN1ShQ/edit#slide=id.g45d07dd2d6_4_1 
+10. Started my weekly open office hours today. Went very well.
+11. finished the audiobook "Leading The Pack: Expert Training to Build Relationships and Inspire Followers" by John Maxwell and Brian Tracy - https://www.dragon-bishop.com/2021/01/leading-pack-by-john-maxwell-and-brian.html
+
+January 04 - 10, 2021
+======================
+
+1. held regular 1:1s and staff meeting
+2. held sprint planning for card issuing team and tokenization team
+3. onboarded Chintal Vashi as Sr SDET to card issuing team
+4. finished comp review and performance reviews for 2020
+5. closed on Neha Joshi as Engineering Manager for card issuing team reporting to me
+6. PE-SRE team had a kick start with the Credit API team. Jonathan began project planning to help deploy new infrastructure and eventually optimize their testing and deployment pipelines. Execution should begin next week - https://docs.google.com/document/d/1Q_SqXMpN0rgF1iFXAcTCrhQeiYWRFOv4AsI3roBG92c/edit
+7. Rajesh prepared a very useful mapping for Programs vs RDS Databases for all production instances globally along with information like short name, data center name, master vs slave db, memory, vcpu, rds instance class, shared instances or not, ip address, number of instances in shared hosts - https://docs.google.com/spreadsheets/d/1dj3AtulotEL3_4R5DcT2OzEa2qOISiwarfgAYZEMRMk/edit#gid=0
+8.held 2 long war room sessions for tokenization team to debug heap memory issue, improvement for STIP, program missing/pagination issue for DNA API, Newrelic - https://groups.google.com/a/marqeta.com/g/tokenadmin/c/wogSj7Ra2Uw
+9. went through card issuing team Q1 scope finalizattion
+10. had a sync up with new recruiter Julie on Sr Full Stack Engineer sourcing along with Rebecca
+11. met with Jerry and team for Coinbase IVR support to Farid
+12. made some changes within my org - reducded frequency and attendees of staff meetings, introduced my weekly open office hours (Wednesday 9 to 9:45 AM) - https://marqeta.zoom.us/j/6047367883?pwd=YzRXY0NXWXFOaHdQcCt4THVvRmx1dz0913. 
+13. finished and reviewed " The 9 Types of Leadership: Mastering the Art of People in the 21st Century Workplace by Beatrice Chestnut" - https://www.dragon-bishop.com/2021/01/the-9-types-of-leadership-by-beatrice.html
+14. Finalized Micah's participation in Project Observability from next week - go/observability-project
+15. Completed tecch compliancec task Q4 2020 SA-13: Access Reviews - DNA (https://marqeta.atlassian.net/browse/GRC-1593)
+16. Sent quarterly feedback for Jonathan and Alex (TAOS consultants) to David G and Brad as well as to TAOS point of contact Karen
+
+December 07 - 13, 2020
+======================
+1. held regular 1:1s and staff meeting
+2. attended compensation review conversation session with People Team
+3. took 3 interviews
+4. closed Chintal Vashi as Sr SDET for Delivery & PartnerOps team reporting to me starting January 2021
+5. PE-SRE team completed all the EBS volumes creation tickets as well as half of the JCard deployments of December release. We also had a great session with Chandru on network tokenization. Also, Alex shadowed Rajesh on program build outs this time.
+6. came up with a plan for #nightops to include TAOS consultants as well.
+7. partcipated in a Cross River Bank (CRB) PCI/SOC audit for development lifecycle
+8. A first version of DNA API with REST/json and gRPC/proto endpoints was deployed this week in Staging horizon environment and manually tested. This meets our goal for Alpha by Q4. This will enable us to go beta by the end of Q1 2021.
+9. participated in Q1 2021 roadmap review for Delivery & PartnerOps
+10. participated in Sprint retrospectives for Tokenization and Delivery & PartnerOps teams
+11. participated in Change and Release process sync with Tech Compliance
+12. got TaaS for JPMC security certified by BugCrowd - https://marqeta.slack.com/archives/C0191TVKDEV/p1607549883005600 
+13. synced up with Puneet and Chandru on TokenManager data flowing into Snowflake via MQ Event Emitter. Will work with Mark to put it into Q1 roadmap.
+14. finished reading "Crucial Conversations – Tools for Talking when the Stakes are High" by Kerry Patterson, Joseph Grenny, Ron McMillan and Al Swizle - http://www.dragon-bishop.com/2020/12/crucial-conversations-tools-for-talking.html
+
+Novemeber 30 - December 06, 2020
+==================================
+1. held regular 1:1s and staff meeting
+2. Worked with PE-SRE team on EBS volume creations for jCard SNS failover - https://docs.google.com/spreadsheets/d/1OPcCkrcQuzJCCf-aNzF3FTF-sqm7F6hFxZRAF8JZetQ/edit#gid=565176378
+3. Finished compensation review for my org with Brad
+4. Syned up with Max Dean on several openings
+5. Had "TaaS - Threat Model Walkthrough" with Ronniee and Chandru - https://docs.google.com/document/d/1_1Yaywsd0A7wGA1MXg8s6DUyWz_wc1x0Nd6FP91pGx0/edit
+6. Discussed "Infra Platform Change Review - Tokenization" with Juddy and Ian
+7. Collaborating to refer Srini on Director of Engineering, Risk & Fraud at Marqeta - https://www.linkedin.com/in/srinivas-reddy-6569a37/
+8. Participatedd in Data Ingestion UI - Design Session with Farid - https://docs.google.com/document/d/1SYqTmdIhNEpvBALOqA183ynTKm6T9IcZwl7IMpm2X9Y/
+9. Participated in "Square Shard 11 - Program ID Change Chat" organized by Tanvi and participated by Delivery & PartnerOps - https://marqeta.atlassian.net/browse/PS-17578
+10.Finished Searching for Bobby Fischer, both the book and the movie - http://www.dragon-bishop.com/2020/12/searching-for-bobby-fischer-book-and.html
+
+Novemeber 23 - 29, 2020
+=======================
+1. held regular 1:1s and staff meeting
+2. Resiliency team had Pulse PRC Upgrade session with Luke
+3. Resiliency team had KT Session with Luke on Auth Service
+4. Resiliency team had KT Session with Amiel on Webhooks and Dequeuers
+5. Resiliency team executed Affirm Kitchen Sink (DEP-16199) 
+6. Resiliency team executed Klarna Virtual Kitchen Sink (DEP-16200)
+7. Resiliency team executed Afterpay Sink (DEP-16201)
+8. Had a planning session with Amiel and Rajesh for creating EBS volumes for jCard SNS failover. 
+9. Held spring planning sessions for Tokenization and Delivery & PartnerOps
+10. Synced on platform dependencies for DX with Kranti
+11. Attended "Processing - PCI Req 1 Quarterly Firewall Review" with Neha, Jatin and Rajesh
+12. Finished reading "The First-Time Manager" by Jim McCormick, Loren Belker, Gary Topchik - https://www.dragon-bishop.com/2020/11/the-first-time-manager-by-jim-mccormick.html
+
+Novemeber 16 - 22, 2020
+=======================
+1. held regular 1:1s
+2. participated in IC and Managers' talent calibrations
+3. we had to make a change on Luke's Transition Plan in favor of Kitchen Sink works for Holiday Capacity Plan of Affirm, Klarna Virtual and Afterpay.
+4. we met with Blake, Kirk, Chris Kimmel from #rip to discuss the next steps for Ramp Financials use of Auth Service.
+5. the first token provisioning in production TaaS (horizon) successful, kudos to the team - 
+https://marqeta.slack.com/archives/CTN0DCC68/p1605683091063000 
+6. Shipped IVR for Coinbase and Fold
+7. Disputes team worked with the Credit team to ensure the Deserve program has Cases API set up in Sandbox - https://marqeta.atlassian.net/browse/PS-17530 
+8. Figured out the billing details working with TAOS and Judy
+9. Carried out a pre-mortem for what can go wrong with Tokenization JPMC Phase 1 - https://docs.google.com/document/d/1Dq1DYknE1CPFsTHtVn-OUtCqq3C8e_QdQCdeKPoN9RQ/
+10. hanlded all paperworks as William Zhang resigned
+11. gave a horizon overview to TAOS consultants along witht Andy and Rajesh
+12. coordinated brainstorming session for DNA API Client Moves / Data Migration
+13. took 1 interview and attended debriefs from lastt week's interviews
+14. reviewed Review BIN Alert Testing and Future Scope Docs
+15. held JPMC TaaS <> Security -> BiWeekly CheckIn. Security Pen testing was successfully completed. a follow-up will be done by Ronie to re-run and get an updated report with tthe fixes applied.
+16. talked to Neha Joshi (ex Roku colleague) for EM opening at my team
+17. finished and reviewed Dynamic Retteaming by Heidi Helfand - https://www.dragon-bishop.com/2020/11/dynamic-reteaming-by-heidi-helfand.html
+
+Novemeber 09 - 15, 2020
+=======================
+1. held regular 1:1s and staff meetings
+2. following Luke's Transition Plan, started a 2 hours (10 am to noon) daily KT session with Luke, Rajesh, Andy, Jonathan and Alex
+3. took 3 interviews
+4. Participated in go/postmortem-616 which was due to an incorrect reassignment of BIN ranges that resulted in transaction declines for Affirm last week.
+5. wokred with Judy, Mirela and TAOS contact to finalize the billing cycle and process for TAOS consultants
+6. attened a JPMC Customer Audit for Change Controls along with Tech Compliance
+7. Resolved the dwt token transitions failure for square register 02 node, DEP-16157
+8. DWT Service Release for Email/SMS localization changes in VISA, DEP-16140
+9. Made changes for Klarna Australia PIN change, DEP-16148
+10. Asked for leadership approval of early deployment for JPMC Phase 1 codebase in production, DEP-16162. We deployed it last Friday, 13th November.
+11. attended compensation 101 training
+12. attended the first managers' guild gathering at Marqeta
+13. attened Change and Release process sync with Erik, Chuck, Eli, Anna, Deloitte consultant Yongyi
+14. worked with Max to publish Engineering Manager position at Marqeta career site - https://www.marqeta.com/careers/2436869
+15. finished "The Queen's Gambit", the Book and the Netflix Miniseries - https://dragonbishop.blogspot.com/2020/11/my-review-of-queens-gambit-book-and.html
+
+Novemeber 02 - 08, 2020
+==================================
+1. Prepared promotion packets and finished manager evaluations
+2. held regular 1:1s and staff meetings
+3. Attended Disputes Virtual Offsite
+4. Took 2 SDET interviews
+5. Created a dlist deployment-resiliency@marqeta.com and sent weekly update on TAO consultants works
+6. Co-presented BIN Management Dashboard and BIN Alerting product review along with Dileesh to Jasono and ET
+7. Helped in coordination of JCard dot releases for Square related to Chargebacks
+8. Observed US election
+9. Conducted sprint planning for BIN Management and Tokenization
+10. Conducted a brainsotrimg session on how to move existing DNA API clients to new Horizon DNA API. Looks like the design proposed in go/dnatohorizon is the way to go. But a follow up session will be held to iron out db replication strategy.
+11. Finished and reviewed "The Prophet" by Kahlil Gibran - https://www.dragon-bishop.com/2020/11/the-prophet-by-kahlil-gibran.html
+
+October 26 - Novemeber 01, 2020
+===============================
+1. attended JPMC weekly client meeting
+2. held regular 1:1s and staff meetings
+3. Met with the team and set expectations for Tokenization On Call Alerts
+4. Took 1 SDET interview
+5. Met with Regina, Daniel and Chandru to discuss next steps on https://marqeta.atlassian.net/browse/REQ-205
+6. Took charge of TAO Consultants from Mohan for deployment resiliency initiative - https://docs.google.com/document/d/1De5xzdFSadoLLZcUL22eLE_5Ac4vaYWcOi7Zv4m_zUY/edit#heading=h.emj730jookqm
+7. Coordinated JCard October release with Rajesh, Mohan, Lekha and TAO consultants - Everyone Else, High Value and Instacart groups
+8. Attended benefits enrollments sessions and enrolled for 2021 US benefits
+9. Caught up with Legal on JPMC Questionnaire & Token Roadmap
+10. Brainstormed with Tanvi and Dileesh on "BIN Alerts Enhancements - Q4 Goals"
+11. Cheered with the team in Product All-Hnads for Chandru's Marqademy A
+d
+12. Paricipated in the Marqeta Talent Show - https://dragonbishop.blogspot.com/2020/10/marqeta-talent-show-simultaneous-chess.html
+13. Collaborated on 2021 Headocunt planning for Tokenization, Delivery/ParternOps, Cases/Disptues
+14. Ran BIN Management Sprint Retrospecitve and Tokenization Retrospective
+15. JPMC successfully cconnected to Tokenization Staging TaaS EKS env. Shout out to Chandru on the troubleshooting he did with JPMC.
+16. Participated in JCard and Platform Overview to TAO consultants by Prerak - https://jamboard.google.com/d/164DTg_GynEnNy4-I26xroyjz7viQnUlvTLZIA_YkxYo/viewer?f=0
+17. Prepared an overall system diagram to combine BIN Alerting Mechanism and BIN Reporting UI together - https://docs.google.com/drawings/d/148BEasj1VpCO_7P08axP-zjOTTR0xLCeWdF2Js1AAug/
+18. Collabroated with Anna on the final stretch for PCI/SOC Audit
+19. Supported Bugcrowd for Security Pen Testing of TaaS
+20. Worked on Manager's evaluations and Promotion Packets
+21. Finished a CultureAmp 20 days bite-size course on "Coaching Skills" - https://identity.cultureamp.com/app/skills-coach 
+22. Finished and reviewed "2001: A Space Odyssey by Arthur C. Clarke" - https://www.dragon-bishop.com/2020/10/2001-space-odyssey-by-arthur-c-clarke.html
+23. Finished and reviewed "Remote: Office Not Required" by Fried and Hansson - https://www.dragon-bishop.com/2020/10/remote-office-not-required-by-fried-and.html
+24. Finished and reviewed "The Tipping Point" by Malcolm Gladwell - https://www.dragon-bishop.com/2020/11/the-tipping-point-by-malcolm-gladwell.html
+
+October 19-25, 2020
+===================
+1. attended JPMC weekly client meeting
+2. held regular 1:1s and staff meetings
+4. Our first customer in Australia, Zip, has officially launched “Tap And Zip” for Digital Wallets & Tokenization - 
+https://www.afr.com/companies/financial-services/zip-strikes-in-store-deal-with-visa-apple-google-20201020-p566qt 
+4. Coordinated Square Shard 2 - BIN Range Swap
+5. Sat with the team to Revisit Security Bugs for Tokenization
+6. Took 2 SDET interviews
+7. Ran my first Pre-mortem. It was about 7 to 8 digit BIN range assignments - https://docs.google.com/document/d/172EBWnY2R1PMsX7_4L5ignr3M0TEbpYHsaXsr8ms77U/
+8. Participated in Disputes Final Audit Findings and relevant JCard production release
+9. Ran Q3 Tokenization Retrospective - https://trello.com/b/GyRipBrq/q3-retrospective-tokenization
+10. Syncped up on DNA Sandbox for Marcus
+11. Synced up on REQ-205 for counties pick list
+12. Attended Marqeta Management Book Club session on The Manager's Path by Camille Fournier - https://docs.google.com/document/d/1RCluR21TKLOZST1XTAjvN1gczqniSlMwce5vIuGZ3qo/
+13. Finished and reviewed "Steves Jobs" by Walter Isaacson - https://www.dragon-bishop.com/2020/10/steves-jobs-by-walter-isaacson.html
+14. Finished and reviewed "No Fears, No Excuses" by Larry Smith - https://www.dragon-bishop.com/2020/10/no-fears-no-excuses-by-larry-smith.html
+
+October 12-18, 2020
+===================
+1. attended JPMC weekly client meeting
+2. held regular 1:1s and staff meetings
+3. chnadru gave tokenization api level demo to JPMC
+4. gave a Simulation suite deep dive swith DX - Subrat, Kranti, Scott, James
+5. worked on PCI audit for pan usage - https://marqeta.atlassian.net/browse/GRC-1442
+6. went through adjustments for Q4 release planning of BIN management
+7. tanvi prepared 7 to 8 digit bin alerts
+8. ran sprint planning for tokenization and bin management
+9. got late to a phone interview for Jagzul Gany. so rescheduled.
+10. did "Marqeta Talent Show - Final Game and Recording" - https://www.youtube.com/watch?v=49_zrYEvmxc
+11. attended meeting for PCI Issue: Deployer access
+12. prepared for DEP tickets of tokenizaqtion and BIN swap of square 2
+13. finished Steve Jobs
+
+October 05-11, 2020
+===================
+1. attended JPMC weekly client meeting
+2. held regular 1:1s and staff meetings
+3. ran several meetings around alert-575 for bin alerting
+4. attended Digital Wallet Office Hours - Recent Changes Overview with Mark
+5. participatd in War room for chargeback discovery for finance/audit purposes
+6. finished reading "The Greatest Minds and Ideas of All Time" by Will Durant - https://www.dragon-bishop.com/2020/10/the-greatest-minds-and-ideas-of-all.html
+
+
+September 28 - October 04, 2020
+===============================
+1. attended JPMC weekly client meeting
+2. held regular 1:1s and staff meetings
+3. handled communications around alert-575
+4. participated in PCI/SOC audits
+5. annoiucned completion of SOX compliance activities for DNA, Monterey except fo finalizing deployer role
+6. held meeting with Deloitte to figure out the deployer role of SOX compliance
+7. worked with AppSec to resolve the needs around SecureConnect and TaaS
+8. provided reference check for Alex Heinen in Qualia
+9. took a day-off at Friday
+10. finished reading "The Everything Store: Jeff Bezos and the Age of Amazon" by Brad Stone - https://www.dragon-bishop.com/2020/10/the-everything-store-jeff-bezos-and-age.html
+
+September 21-27, 2020
+=====================
+1. attended JPMC weekly client meeting
+2. held regular 1:1s and staff meetings
+3. went through performance review feedbacks for 10 out of 12 direct reports
+4. handled alert-575 and post mortem for it - go/postmortem-575
+5. finished sprint planning for bin management and tokenization teams
+6. had a PX office hour session for TaaS
+7. coordinated with Credit API routing in Sandbox and Prod - ENGHELP-2218 along with Zach, Kevin, Rajesh
+8. met with Shreya and Kiran
+9. finished "The Denial of Death" by Ernest Becker - https://www.dragon-bishop.com/2020/09/the-denial-of-death-by-ernest-becker.html
+
+September 14-20, 2020
+=====================
+1. attended JPMC weekly client meeting
+2. held regular 1:1s and staff meetings
+3. attended career growth @ marqeta manager's training
+4. schedule PX office hour to talk abiout JPMC infra questionnaire - https://docs.google.com/spreadsheets/d/1gf-rDcP9QtkE_9GZ4-1gmqFz4myl_TYOUXan0kluVs4/edit#gid=0
+5. sox bi-weekly check-in went well
+6. card art tool design session 1 and 2 held at 14th and 16th septmeber
+7. explained MQ SDLC process to Micah and Elena
+8. met with Ian about DMS
+9. help Zach/Creidt team to unblock with Rajesh as this ticket has nott been making any progress last 10 days - https://marqeta.atlassian.net/browse/ENGHELP-2218
+10. had performacne review session 1 with Jaya at 15h Sept
+11. had performacne review session 1 with Chaya at 15h Sept
+12. had performacne review session 1 with William at 16h Sept
+13. had performacne review session 1 with Farid at 16h Sept
+14. had performacne review session 1 with Chandru at 16h Sept
+15. will have performacne review session 1 with Tanvi at 17h Sept
+16. scheduled performacne review session 1 with Rajesh for 22nd Sept
+17. scheduled performacne review session 1 with Henry for 22nd Sept
+18. scheduled performacne review session 1 with Femi for 22nd Sept
+19. scheduled performacne review session 1 with Wayne for 22nd Sept
+
+
+September 7-13, 2020
+=====================
+1. attended JPMC weekly client meeting
+2. held regular 1:1s and staff meetings
+3. welcome Micha Riggan to the team
+4. welcome Elena Iskhacova to the team
+5. went through estimation sessions for Q4 and 2021 for Delivery & PartnerOps
+6. went through estimation sessions for Q4 and 2021 for Tokenization
+7. went through estimation sessions for 2021 for Cases/Disputes
+8. prepared a plan to resolve monterey,cases, dna api SOX complaince failures
+9. worked with Deloitte for clarification on separate SRE roles with Deployer privilege for production releases
+10. attended Manager @ Marqeta Training for 2020 Performance Reviews
+11. followed up with alert-559 for BillGo and created FACTS doc - https://docs.google.com/document/d/13OqSXd5KgkYbtJbBavcuGDqOXxvzfJynzrdZJHzF5pE/edit#
+12. handled communications around Rajesh's workload due to Luke's sick leave for 2 weeks
+13. went through a detail task estimations and status update for JPMC project - go/taasbreakdown
+14. Finished "Crash Course Astronomy" by Phil Plait - https://www.dragon-bishop.com/2020/09/crash-course-astronomy-by-phil-plait.html
+15. Finished "The First Three Minutes" by Steven Weinberg - https://www.dragon-bishop.com/2020/09/the-first-three-minutes-by-steven.html
+16. Finished "Islamic Civilization in Thirty Lives" by Chase Robinson - https://www.dragon-bishop.com/2020/09/islamic-civilization-in-thirty-lives-by.html
+
+August 31 - September 6, 2020
+=============================
+1. attended JPMC weekly client meeting
+2. held regular 1:1s and staff meetings
+3. presented Tokenization to Jason Garnder and Exec Team. received positive feedbacks - https://docs.google.com/presentation/d/1Uq9u1SN-8UThtYpxd-gHsdQ84O-G-OUmPBoWm8pZ9jQ/edit
+4. released draft for DNA API Move to Horizon Engineering Design document - go/dnatohorizon
+5. finished myself Udemy Course "Communication Fundamentals: How to Communicate Better". also assigned it to msot of my direct reports - https://marqeta.udemy.com/course/communication-fundamentals-how-to-communicate-better/learn/lecture/8033802?start=75#overview
+6. received good feedback from Brad no my work so far
+7. finished sprint planning for tokenization squad
+8. finished sprint planning for bin management squad
+9. reviwed sox compliance doc with delloitte as well as alex truong - go/soc-release-mgmt. assigned henry, chaya and rajesh relevant sox compliane tasks for CX
+10. worked with the team to deploy chandru's code and renew MDES otp enceryption prod-key from portal
+11. participated in disputes 2021 planning
+12. finalized dna api, bin management, card art design service works items and estimations for Q4 with Dileesh
+13. gave estimate for a new onbaording platform team for 2021 with t-shirt size breakdowns of 3 streamlines of work items
+14. participated in 2020 summer internship post-mortem
+15. prepared Micah Riggan's Onbaording document and 1:1 doc
+16. prepared Elena Iskhacova's Onbaording document and 1:1 doc
+17. finished reading Man's Search for Meaning by Viktor Frankl - https://www.dragon-bishop.com/2020/09/mans-search-for-meaning-by-viktor-frankl.html
+
+August 24-30, 2020
+=====================
+1. attended JPMC weekly client meeting. we have to use Basic Auth based Zion instead of OAuth / OIDC based Nile for MQ-JPMC connectivity.
+2. held regular 1:1s and staff meetings
+3. took 2 interviews
+4. finished my last Engineering Leaders Weekly tribute responsibility for the month of August
+5. met about sox compliance - Monterey/PD for PROD-CM-02b
+6. met about soc/pci compliance - Transmission API
+7. prepared go/sox-release-mgmt and presented to leadership
+8. had working session for creating new projects under MC portal - PS-14603 and generate keys
+9. Discussed DNA API wrt storing Visa API Keys for Premium Bins with Mike Sunold
+10. ran bin management and tokenization sprint retrospectives
+11. closed Elena Iskhacova as Sr SDET for Tokenization team
+12. recognized rajesh, chandru, tanvi, henry and jaya via Fond
+13. dropped samsung phone to jaya's house voer the weekend
+14. Assigned Udemy Course to several engineers "Communication Fundamentals: How to Communicate Better" - https://marqeta.udemy.com/course/communication-fundamentals-how-to-communicate-better/learn/lecture/8033802?start=75#overview
+15. finished listening to "Truth from the Trenches: A Practical Guide to the Art of IT Management" by Mark Settle - https://www.dragon-bishop.com/2020/08/truth-from-trenches-by-mark-settle.html
+16. finished reading "Goals!: How to Get Everything You Want -- Faster Than You Ever Thought Possible" by Brian Tracy - http://www.dragon-bishop.com/2020/08/goals-by-brian-tracy.html
+
+August 17-23, 2020
+========================
+1. attended JPMC weekly client meeting
+2. held regular 1:1s and staff meetings
+3. took 1 interview
+4. had meeting on sox compliance with Brad, Madhu and others. picked some works on behalf of team
+5. met with MasterCard to discuss key expiration/renewal via MDES portal
+6. did cart art service estimation with the team - both frontend and backend.
+7. met with AppSec for JPMC security related discussions
+8. filled up JPMC technological questionannaire - https://docs.google.com/spreadsheets/d/1HoEAMdRvXCQOo4x9hIGLMajkuwJHbonw/edit#gid=971830869
+9. prepared go/sox to send to the team for review
+10. went to office for HSM key custodian duty
+11. met for management book club. today's book was - "An Elegant Puzzle: Systems of Engineering Management" by Will Larsono
+12. finished reading Silos, Politics and Turf Wars by Patrick Lencioni - https://www.dragon-bishop.com/2020/08/silos-politics-and-turf-wars-by-patrick.html
+13. finished reading "Einstein's Relativity and the Quantum Revolution: Modern Physics for Non-Scientists"
+by Professor Richard Wolfson
+
+August 10-16, 2020
+========================
+1. Attended JPMC weekly client meeting
+2. held regular 1:1s and staff meetings
+3. gave a presentation with Mark met with Madhu to Kevin - "Product Review (CPO): Tokenization"
+4. conducted sprint planning for tokenization as well as delivery & partnerops
+5. met about alert process with Niteeka, Mark and Ian
+6. met with AppSec for Tokenization Security testing next steps
+7. took 1 interview
+8. went over TaaS Visa and Mastercard certs provisioning steps with the team
+9. arranged and attended Tyler's DNA API to Horizon demo
+10. finished reading The Lean Startup by Eric Ries - https://www.dragon-bishop.com/2020/08/the-lean-startup-by-eric-ries.html
+11. finished reading The Prince by Niccolo Machiavelli - https://www.dragon-bishop.com/2020/08/the-prince-by-niccolo-machiavelli.html
+12. finished reading Alibaba: The House That Jack Ma Built by Duncan Clark - https://www.dragon-bishop.com/2020/08/alibaba-house-that-jack-ma-built-by.html
+
+August 3-9, 2020
+========================
+1. Attended JPMC weekly client meeting
+2. held regular 1:1s and staff meetings. talked about "Customer Experience = Issuing + DX - Card Platform"
+3. reviewed and recommended changes for Tyler's final internship presentation
+4. attended retrospective session with PX, Auth Service, Tokenization teams - https://docs.google.com/document/d/1gxrLypM2eLXwYkpJ3hbj52N1mqkPFil78uivHkLp6i4/edit
+5. met with Travis along with tokenization team for Mobile App for Instant Issuance API, samsung pay support, Ruby on Rails project
+6. attended 2 meetings on "Visa Token Services API Discussion" with Mike Sunold, Tommy, John, Linh, Chandru and Rajesh
+7. talked 1:1 with Micah Riggan and put him for offer stage as Sr Backend Engineer, Delivery & PartnerOps
+8. attended Tyler's Final Intern Project Presentation
+9. met with Cynthia Cox of SecEng for Tokenization Security / Penetration Testing
+10. worked with the team for "Tokenization Instant Issuance API Demo" to David G, Madhu, Brad, Jatin
+11. performed delivery & partnerops sprint retro
+12. met with Madhu and Mark to finalize the deck for "Product Review (CPO): Tokenization" next Monday with Kevin
+13. finished Nigel Warburton's "A Little History of Philosophy"
+
+July 27-August 2, 2020
+========================
+1. attended JPMC weekly client meeting
+2. finished setting up pagerduty alerts for tokenization and dna api after talking to Ian Chesal
+3. attented PX <> Tokenization Embed Weekly meeting
+4. took 1 interview and attended 2 debriefs
+5. held regular 1:1s and staff meetings
+6. ralied the team around to deploy the first tokenization codebase to horizon production cluster - Instant Inssuance API
+7. had my mid-year check-in with Brad
+8. arranged a demo by Henry for the team on tokenization test strategy
+9. sysned on disputes team and Divya's internship to FTE conversion dates with Femi and Brad
+10. observed Eid-ul Adha
+11. finished "Stories of Your Life and Others" by Ted Chiang - https://www.dragon-bishop.com/2020/08/finished-reading-stories-of-your-life.html
+12. finished "Book of Five Rings" by Miyamoto Musashi - https://www.dragon-bishop.com/2020/08/book-of-five-rings-by-miyamoto-musashi.html
+
+
+July 20-26, 2020
+========================
+1. Welcomed Wayne Sheng, New Hire Sr Backend Engineer at Tokenization Squad
+2. held regular 1:1 and staf meetings
+3. took in 4 interviews
+4. finished Dare to Lead by Brene Brown - https://www.dragon-bishop.com/2020/07/dare-to-lead-by-brene-brown.html
+5. attended JPMC meetings where we dsicussed initial interface spec version 0.1
+6. participated in the first management book club session. the topic was Five Dysfunctions of Team by Patrick Lencioni - https://sites.google.com/marqeta.com/managers/book-club
+7. went through 3 JPMC timeline review meetings with the team that were 2.5, 1 and half an hour in length respectively
+8. attended a surprise session to celebrate Chandru & Henry hitting 2 years @Marqeta
+9. Announced Hnery getting promoted to Lead SDET and Femi transitioning into Engineering Manager
+10. finished go/postmortem-489
+
+July 13-19, 2020
+========================
+1. hack week
+2. sent Veena Bontu a list of tokenized programs
+3. JPMC tokenization contract got signed 15th July!
+4. Reviewed with team Chandru's initial draft of JPMC-MQ interface spec - https://docs.google.com/document/d/1loAAn4uU8klospJXHqjqxu3gZU6RPRxwo6BnP2W_UhQ/edit#
+5. Reviwed Kirk's TokenManager mTLS Architecture doc - https://docs.google.com/document/d/14U-BMQy8cxm2_P6si-v-uI2-B1be1vaxCcrMX4ax8vw/edit#heading=h.huqh8469shh4
+6. Took 1 interview
+7. prepared onboarding doc for Wayne Sheng - https://docs.google.com/document/d/1RBAXPKaXdviVGyW46vCj08lNz43LEdlFGxlcis5cgBY/edit#heading=h.nhsnvq51mgat
+8. read for a second time "The Five Dysfunctions of a Team" by Patrick Lencioni - https://www.dragon-bishop.com/2020/03/the-five-dysfunctions-of-team.html
+9. finished reading Exhalation by Ted Chiang - https://www.dragon-bishop.com/2020/07/exhalation-by-ted-chiang.html
+10. prepared a new google site for managers - https://sites.google.com/marqeta.com/managers
+
+July 6-12, 2020
+========================
+1. held 1:1s and staff meeting
+2. went through mid-year check-ins with all my directs
+3. welcome Alberto Gonzales to cases team reporting into Femi
+4. met with JPMC to discuss high level steps
+5. resolved timecard issues for Tyler
+6. attended tokenization demo by Chandru and Henry
+7. filled up SOX compliance action item along with Chandru and Tanvi - https://docs.google.com/spreadsheets/d/1A-5iRSKFw80PdOhVssPWCm_dulWRf5saiw1O480vg6M/edit#gid=920395423
+8. ran quarterly restrospective for delivery & partenerops squad - https://trello.com/b/c0SKH9S8/q2-retrospective
+9. finished 48 laws of power by Robert Greene - https://www.dragon-bishop.com/2020/07/the-48-laws-of-power-by-robert-greene.html
+
+June 29-July 5, 2020
+========================
+1. held 1:1s and staff meeting
+2. carried out postmortem for alert-506 go/postmortem-506
+3. gave a session Tanvi, Chaya and Jaya to set expectations on engineering interviews as they are new interviewers
+4. create an issuing oncall setups by team / projects proposal and shared with Issuing EMs - https://docs.google.com/document/d/1NGG-v3_RGRDbMeI4skwb6VrWBPHz2UFHdEAIeusHoaM/edit# 
+5. performed sprint planning for bin management and tokenization
+6. brainstormed with chandru, kirk, rajesh on SNS/SQS/Webhook/Dequeuer for TAAS and Horizon - https://drive.google.com/file/d/1JjncEoB8tYn1ojeBTiC5R_OiRBQfHWUh/view?usp=sharing
+7. talked to henry, chaya and femi on mid-year check-ins
+8. met with Chuck, mike kapping, michael sawyer, kirk and chandru for tokenization inbound and outbound connections and security points - https://app.lucidchart.com/documents/edit/ea2859da-7f30-4b8a-9a17-d2f34ab42959/eNbqbEM6f5NI?shared=true
+9. met with new disputes PM Wayne
+10. finished reading Libra: The Cryptocurrency Revolution by Robert Donegal - https://www.dragon-bishop.com/2020/07/libra-cryptocurrency-revolution-by.html
+
+June 22-28, 2020
+========================
+1. held 1:1s and staff meeting
+2. participated in 4 interviews and 2 reference checks
+3. partcipated in Marqeta-JPMC kickoff meeting
+4. participated in engineering calibration session for mid-year
+5. resolved a monterey sdet support issue working with the team
+6. worked on q3 commitmentts for tokenization and bin management as well as ran sprint retro
+7. synced up with Chris and Tommy on managers guild relaunch
+8. synced up on Rajesh's time for PS-13000 
+9. synced up with udemy for business marqets AE Jenn Hourani
+10. met with seceng / mike lapping along with kirk and chandru for TAAS inbound and outbound touchpoints
+11. finished offer letter and reference checks for wayne sheng. weyne accepted with a start date of july 20th
+12. finished biology of belief by Bruce Lipton - https://www.dragon-bishop.com/2020/06/the-biology-of-belief-by-bruce-h-lipton.html
+
+June 15-21, 2020
+========================
+1. held regular 1:1s and staff meeting
+2. finished tokenization Q3 roadmaps estimations with team
+3. finiashed bin management Q3 roadmap edstimations with team
+4. took 3 interviews
+5. finished Gorvodharini by Samaresh Majumar - https://www.dragon-bishop.com/2020/06/gorvodharini-by-samaresh-majumdar.html
+6. sat down with Jason Arias and Femi to understand the backend state of cases before Jason's departure this week
+7. Had session with Kirk, Ian and team to set expectations on PE engagement with TAAS for next 1 month
+
+June 8-14, 2020
+========================
+1. held regular 1:1s and staff meeting
+2. took 4 interviews
+3. worked with mohan on go/sla
+4. collaborated on jason arias's notice
+5. wokred with Tyler to get the hello world version of DNA API up and running in his local
+6. performed sprint planning for tokenization and bin management
+7. prepared a plan for tokenization report automation vai python-based aws lambda
+8. participated in tokenization q3 roadmap estimates
+9. connected on pulse updater plan for Q2
+10. participated in PX <> Tokenization embed scoping meeting
+11. finished reading and reviewed "That Will Never Work" by Marc Randolph - https://www.dragon-bishop.com/2020/06/that-will-never-work-by-marc-randolph.html
+
+June 1-7, 2020
+========================
+1. held regular 1:1s and staff meeting
+2. took 2 interviews
+3. welcomed new intern Tyler Reinecke
+4. attended deloitte sox compliance meeting for DNA API
+5. finished Kings of Crypto by Jeff John Roberts - https://www.dragon-bishop.com/2020/06/kings-of-crypto-by-jeff-john-roberts.html
+
+May 25-31, 2020
+========================
+1. created a detail task level breakdown for TAAS for JPMC project - go/taasbreakdown
+2. worked on defining and measuring SLA and SLO for horizon projects - go/sla
+3. celebrated Marqeta's series F funding
+4. created horizon monorepo ticket for DNA API - https://marqeta.atlassian.net/browse/ENGHELP-1693
+5. touchbased with Mark and Chandru on Q2 goal for TAAS
+6. took 1 interview
+7. held regular 1:1s
+8. Finished and reviewed Anatomy of the Swipe by Ahmed Siddiqui - https://ashikuzzaman.wordpress.com/2020/05/25/the-anatomy-of-the-swipe-making-money-move-by-ahmed-siddiqui/
+
+May 18-24, 2020
+========================
+1. Welcomed / onboarded William to Tokenization squad - https://docs.google.com/document/d/1QQdFakEPe5NU5IvHiHU_3OWnAy0oZrk2c64IFKTxr3E/
+2. Brainstormed and came up with DNA API Scaling for Horizon with 5 9s - https://jamboard.google.com/d/1bCNERl0Cpgad0zR-fell3SOX6XH-m14U0JBmVev3Z3s/viewer?f=0
+3. Attended interns welcome night and prepared project for Tyler
+4. Held 1:1s, weekly staff meeting and 2 sprint planning meetings
+5. Attended TrainingPilot: Managing@Marqeta for "Performance Management"
+6. Took 1 interview
+7. Discussed about additional time needed for Nick on AMC, proposed by Eli.
+8. Generated a conversation on Definition of Done for user stories in horizon - https://marqeta.slack.com/archives/CRKSTRPGV/p1590148002407800
+9. Observed Eid-ul-Fitr
+10. Finished Udemy Course "Leadership Lessons and Building High Performance Teams" - https://marqeta.udemy.com/course/leadership-lessons-and-building-high-performing-teams/learn/lecture/14536374#overview
+11. Finished As A Man Thinketh by James Allen - https://www.dragon-bishop.com/2020/05/as-man-thinketh-by-james-allen.html
+
+May 11-17, 2020
+========================
+1. Started giving feedback on "Testing on Horizon" - https://docs.google.com/document/d/1XZ3a95u6qB3YBdRqe4G0ETx4-iWWfXIeZasv_ez9KDY/edit
+2. Took 2 interviews
+3. Organized Sprint retropsectives for Tokenization and Bin Management
+4. Drilled down details on token as a service work items to extract tokenization out of JCard. Jamboard Link: https://jamboard.google.com/d/1A8I_6VRzP7wokSQl_DZ-WPe63WaMP9J2L9WyN5fA3sw/viewer?f=0
+5. Prepared and reviewed everything needed for Instacart Canada's Move to AWS
+6. Attended a managing @marqeta Training Pilot: Setting Clear Goals
+7. Held 1:1s and weekly staff meeting to go through go/effective-meetings
+8. Finished Udemy Course "Emotional Intelligence at Work: " - https://marqeta.udemy.com/course/emotional-intelligence-at-work-learn-from-your-emotions/learn/lecture/13908368#overview
+9. Finished and reviewed "Essentialism: The Disciplined Pursuit of Less" by Greg McKeown - http://www.dragon-bishop.com/2020/05/essentialism-disciplined-pursuit-of.html
+
+May 4-10, 2020
 ========================
 1. Prepared a document to influence the Token As A Service future development strategy providing 4 options and sharing it with leadership in engineering and product - https://docs.google.com/document/d/1nQDaVE82iNVewFpUwy_jXyHOHm5IUPXZecjmfUrdsEQ/
 2. Working with the team, prepared current list of APIs in tokenization (JCard) and DWT service that need to be migrated as part of horizon - https://docs.google.com/document/d/1qQp-oewfhQ3ygXltCUmoLeL9YUJTN5zSrOFRZqA8_HQ/edit#heading=h.44f2sx8sthtz
@@ -9,7 +541,9 @@ May 04 - May 10, 2020
 7. Had skip level 1:1 with David G, new VP of Engineering
 8. Prticipated in managing @marqeta initiative - Training Pilot: Hiring Manager Essentials
 9. Held regular 1:1s and weekly virutal coffee
-10. Finished reading Pragmatic Programmer
+10. Finished Udemy Course "Leadership: How to Influence, Inspire and Impact as a Leader" - https://marqeta.udemy.com/course/leadership-influence-everyone/learn/lecture/8122708?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com#overview
+11. Finished and reviewed "The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition" by David Thomas (Author), Andrew Hunt - https://ashikuzzaman.wordpress.com/2020/05/09/the-pragmatic-programmer-your-journey-to-mastery-20th-anniversary-edition/
+12. Finished and reviewed "High Out Management" by Andrew S. Grove - https://www.dragon-bishop.com/2020/05/high-output-management-by-andrew-s-grove.html
 
 April 27 - May 03, 2020
 ========================
