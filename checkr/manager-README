@@ -1,1 +1,117 @@
-hi
+Hi, I’m Ashik.
+This document is my personal operating manual. It explains how I show up as your manager and what you can expect from me. It’s a living document and not company policy; I’ll keep refining it as I learn more about Checkr and our team.
+
+"About me"
+I’m a driven servant leader with 20 years in engineering and engineering management, specializing in distributed systems, Java, and AWS.
+I love building new teams, helping them become highly productive, and cultivating a culture of strong work ethics, collaboration, and fun.
+Outside work, I’m a chess player and avid reader.
+
+LinkedIn: https://www.linkedin.com/in/ashikuzzaman/
+
+"My leadership approach"
+* Servant + situational leadership: I aim to serve the team and adapt my style to what you and the situation need.
+* Context over control: I provide clarity, alignment, and guardrails; you own decisions and outcomes.
+* High standards, high empathy: We hold the bar on quality, security, and reliability while treating each other with respect and kindness.
+* Builder mindset: Bias for action, learning loops, and continuous improvement.
+
+"What I optimize for at Checkr"
+* Trust first: Candidate and customer trust is foundational. We design for privacy, security, and compliance from the start.
+* Impact: We measure outcomes (customer value, reliability, risk reduction), not just output.
+* Safe velocity: Ship quickly and safely using feature flags, canaries, rollbacks, solid tests, and observability.
+* Team health: Psychological safety, clear ownership, and sustainable pace. I hold monthly staff meeting and we have the private #org-ashik slack channel where we can discuss issues with our scrum team engineers freely.
+* Domain knowledge: Develop a strong understanding of Checkr’s business, customer expectations, and the operational realities (incidents, on-call patterns) of the features, components, and services our team owns. Aim to confidently answer cross‑functional questions in Slack channels like #rd-team-crim-screenings, #rd-team-crim-searches, #crim-sme, #crim-eng-oncall, #proj-walmart-tickets, #proj-charge-classifiers etc.
+
+"How we work together"
+* Communication and availability
+** Over-communicate. I prefer early, small signals over late surprises.
+** Slack is great for quick questions; do not hesitate to DM me. If it’s bigger than a paragraph, consider a doc, ticket, or a quick call.
+** I’m good at context-switching. If my calendar is full, grab time anyway; I’ll make room or propose an alternative.
+** I sometimes send messages after hours so I don’t forget. There is no expectation of an off-hours response unless I explicitly mark it urgent (rare). Please use Do Not Disturb.
+** Weekly 1:1s for 30 minutes by default. We can adjust frequency/length as needed. Bring topics you care about—this time is for you.
+** For distributed work, a brief weekly async update is helpful: top priorities, progress, risks/blocks, and help needed.
+** A picture is worth a thousand words!
+** Speak (or write in slack) according to audience taking into account their familiarity with the topic.
+
+* Execution and ownership
+** Clarity first: We’ll turn goals into crisp problem statements, success metrics, and DRIs.
+** Plan the work, work the plan: Break down work, surface risks early, call out trade-offs, and keep stakeholders informed.
+** Decision-making: Prefer documented decisions with options and trade-offs. Identify one-way vs two-way doors. We’ll use data where we have it and judgment where we don’t.
+** Engineering excellence: I care about code quality, design, debugging, documentation, testing, performance, observability, and simplicity. However, don’t make “perfect” the enemy of “good”.
+** Operational readiness: SLOs, alerts that matter, dashboards, runbooks, on-call hygiene, and blameless postmortems that lead to concrete improvements.
+** Compliance and privacy-by-design: We handle sensitive data. Minimize, protect, audit, and avoid shortcuts. When in doubt, pause and ask.
+** Cross-functional partnership: Collaborate deeply with Product, Design, Legal/Compliance, Security, Support, and GTM. We win as one team.
+
+* Debate, disagreement, and commitment
+** Healthy debate is welcome. Be curious, not combative. Assume positive intent.
+** “Ask for forgiveness not permission” will work most of the time.
+** If we can’t reach consensus in time, I’ll decide; we’ll disagree and commit, and we’ll revisit if new data appears. If “disagree and commit” happens often, that’s a signal to improve our process or alignment.
+
+* Management style and expectations
+** I don’t want to micromanage. I’ll empower you and hold you accountable.
+** Use good judgment. I’m accountable for team outcomes, and I expect you to explain the why behind decisions. Disagreement with me ≠ bad judgment; repeated unsound judgment is something we’ll address together.
+** Skills I value (no one excels at all of these—pick strengths and growth areas):
+- Code quality
+- Design and architecture
+- Debugging and troubleshooting
+- Project management and delivery
+- Communication and responsiveness
+- Reaching consensus and influencing
+- Delegation and mentoring
+- Time management and focus
+- Bringing new ideas
+- Technical documentation
+** Ask for what you need: books, training, conferences, pairing time, or a stretch project. I’ll advocate for you.
+
+* Feedback and growth
+** Feedback early and kind. I’ll praise publicly and deliver constructive feedback privately and candidly.
+** Your growth matters. We’ll co-create a growth plan aligned to your interests and the team’s needs. I’ll look for opportunities that stretch you safely.
+** I welcome feedback on me—especially if you see a gap between this doc and my behavior.
+
+* Work hours, balance, and flexibility
+** Sustainable pace beats heroics. If we’re relying on heroics, we won’t fix the system gaps.
+** Take time off and fully disconnect. Keep calendars and Slack statuses up to date so we can plan around each other.
+** Remote/hybrid is normal; we’ll lean on async updates, clear documentation, and good meeting hygiene.
+** When you are in weekly primary oncall rotation on behalf of the team, you are expected to be available 24/7 for that one week.
+
+* Quality, safety, and compliance guardrails
+** We operate in a regulated and trust-sensitive domain. We will:
+- Treat candidate and customer data with utmost care
+- Favor least-privilege access and strong auditability
+- Write changes we can roll back; design migrations with safety nets
+- Make compliance and security part of design, not an afterthought
+
+* What I won’t tolerate
+** Disrespectful or exclusionary behavior
+** Cutting corners on security, privacy, or compliance
+** Blame without ownership or learning
+** Repeated silent failures or surprises
+
+* What you can expect from me
+** Clear priorities and context
+** Unblocking and resourcing support
+** Coaching, sponsorship, and recognition
+** Protection of team focus time and health
+** Transparency about what’s happening, what’s next, and why
+** Active participation in hiring and building a diverse, excellent team
+
+* What I need from you
+** Ownership and proactive communication
+** Raise risks early; ask for help when stuck
+** Write things down; leave the campsite cleaner than you found it
+** Mentor others; be generous with knowledge
+** Care about the mission and the people we serve
+
+* First 90 days with me
+** Listen and learn: people, systems, processes, and our customers/candidates.
+** Establish baselines: goals, delivery process, on-call health, and quality metrics.
+** Quick wins: reduce toil, close open loops, improve a pain point.
+** Co-create or refine team norms and working agreements.
+
+* How to reach me
+** Slack for quick questions or to grab time
+** Put time on my calendar even if it looks full—note your topic; I’ll make it work
+** Email or doc comments for longer-form discussions
+** If it’s urgent and unclear, message me and say so
+
+"Final Note"
+If you see a mismatch between this README and my behavior, please tell me. I’m learning too, and your feedback helps me be a better leader. I’m excited to build with you at Checkr—advancing our mission, shipping great software, and growing together.
